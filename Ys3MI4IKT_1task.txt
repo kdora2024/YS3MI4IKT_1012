@@ -1,0 +1,21 @@
+Ha elkészült a repository a weben, akkor le kell clonozni az általam megadott könyvtárba C:\KDGit
+
+git clone https://github.com/kdora2024/YS3MI4IKT.git
+
+a local repositoryn ez lett az YS3MI4IKT
+
+
+local
+1. git status -állapot ellenőrzés
+2. git add "YS3MI4_1012" feltöltés
+
+több fájl esetén
+3. git add "YS3MI4_1012/*.*"
+
+3a. git add . feltölti az összes fájlt, ami az YS3MI4_1012-ben van
+
+4. git commit -m "3 file save" fel committoltuk a stage-re
+
+
+Feltöltés
+git push - majd frissítjük
